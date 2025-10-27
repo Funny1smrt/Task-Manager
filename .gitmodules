@@ -1,0 +1,6 @@
+[submodule "api-temp"]
+	path = api-temp
+	url = https://github.com/Funny1smrt/API-Tasks.git
+[submodule "frontend-temp"]
+	path = frontend-temp
+	url = https://github.com/Funny1smrt/Task-Manager-Frontend.git
